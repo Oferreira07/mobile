@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(112,112,112);
+    width: 0 auto;
+    margin: 200px;
+    text-align: center;
+    border: 15px;
+}
+
+h1{
+    border: 15px solid rgb(255, 176, 189);
+    border-radius: 40px;
+    background-color: pink;
+}
+

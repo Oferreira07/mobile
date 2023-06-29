@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(112, 112, 112);
+  width: 0 auto;
+  margin: 200px;
+}
+
+form{
+  border: 10px solid rgb(255, 177, 190);
+  text-align: center;
+  background-color: pink;
+  border-radius: 60px;
+  width: 0 auto;
+  
+}
+
+h1{
+  width: 0 auto;
+  border: 10px solid rgb(111, 0, 111);
+  border-radius: 50px;
+  background-color: purple;
+  text-align: center;
+}
+
+input{
+  border-radius: 4px;
+  font-size: 15px;
+}
