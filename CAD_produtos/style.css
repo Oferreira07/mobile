@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(112,112,112);
+    margin:0 auto;
+    width: 200px;
+    
+    
+}
+header{
+    border: solid 5px;
+    border-radius: 8px;
+    border-color: pink;
+    border-style: outset;
+    border-width: 5px;
+    background-color: rgb(255, 177, 190);
+}
+div{
+    border: solid 5px pink;
+    border-radius: 8px;
+    border-style: outset;
+    border-width: 5px;
+    background-color: rgb(255,177,190);
+}
+header,div{
+    margin: 15px;
+}
